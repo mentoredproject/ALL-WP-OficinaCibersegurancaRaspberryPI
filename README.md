@@ -31,7 +31,7 @@ Este repositório contém os materiais da oficina **“Introdução à Cibersegu
 
 Este repositório é fornecido apenas para fins educacionais. O uso dos exemplos de código aqui fornecidos é de responsabilidade do usuário. Não nos responsabilizamos por qualquer uso indevido ou ilegal desses materiais.
 
-## Contato
+## Contato 
 
-Para mais informações ou dúvidas, entre em contato através do e-mail: [lucasalbano@dcc.ufmg.br](mailto:lucasalbano@dcc.ufmg.br) ou conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/lucasaoc/).
+Para mais informações ou dúvidas, entre em contato conosco através do e-mail: [mentored.project@gmail.com] (mailto: mentored.project@gmail.com) ou [lucasalbano@dcc.ufmg.br](mailto:lucasalbano@dcc.ufmg.br) ou conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/lucasaoc/).
 
