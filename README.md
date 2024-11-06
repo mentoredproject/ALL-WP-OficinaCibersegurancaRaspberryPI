@@ -33,5 +33,5 @@ Este repositório é fornecido apenas para fins educacionais. O uso dos exemplos
 
 ## Contato 
 
-Para mais informações ou dúvidas, entre em contato conosco através do e-mail: [mentored.project@gmail.com](mailto: mentored.project@gmail.com) ou [lucasalbano@dcc.ufmg.br](mailto:lucasalbano@dcc.ufmg.br) ou conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/lucasaoc/).
+Para mais informações ou dúvidas, entre em contato conosco através do e-mail: [mentored.project@gmail.com](mailto:mentored.project@gmail.com) ou [lucasalbano@dcc.ufmg.br](mailto:lucasalbano@dcc.ufmg.br) ou conecte-se comigo pelo [LinkedIn](https://www.linkedin.com/in/lucasaoc/).
 
